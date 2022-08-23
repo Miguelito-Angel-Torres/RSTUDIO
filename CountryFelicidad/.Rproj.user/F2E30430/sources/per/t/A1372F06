@@ -1,0 +1,28 @@
+{
+    "id": "A1372F06",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651092314944.0,
+    "source_on_save": false,
+    "relative_order": 19,
+    "properties": {
+        "id": "f408aa9620ea470c8b481ef1122d96ee",
+        "name": "modeloRegresion",
+        "title": "modeloRegresion",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2522898684784,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651092314944,
+    "read_only": false,
+    "read_only_alternatives": []
+}

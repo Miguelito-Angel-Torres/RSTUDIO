@@ -1,0 +1,28 @@
+{
+    "id": "6F2A40C9",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651088708542.0,
+    "source_on_save": false,
+    "relative_order": 17,
+    "properties": {
+        "id": "4623fec9ac13495e8ae7670aa5b381d3",
+        "name": "HSaoV",
+        "title": "HSaoV",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2522834820184,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651088708542,
+    "read_only": false,
+    "read_only_alternatives": []
+}

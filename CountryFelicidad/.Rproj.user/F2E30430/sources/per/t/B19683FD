@@ -1,0 +1,28 @@
+{
+    "id": "B19683FD",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651087993076.0,
+    "source_on_save": false,
+    "relative_order": 16,
+    "properties": {
+        "id": "84680c723ed7429aa6a7b50c8f38d781",
+        "name": "grupos2015",
+        "title": "grupos2015",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2522896283728,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651087993076,
+    "read_only": false,
+    "read_only_alternatives": []
+}
